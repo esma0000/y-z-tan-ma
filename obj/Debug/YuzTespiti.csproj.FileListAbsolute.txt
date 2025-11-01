@@ -1,0 +1,10 @@
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\bin\Debug\YuzTespiti.exe.config
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\bin\Debug\YuzTespiti.exe
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\bin\Debug\YuzTespiti.pdb
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.csproj.AssemblyReference.cache
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.Form1.resources
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.Properties.Resources.resources
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.csproj.GenerateResource.cache
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.csproj.CoreCompileInputs.cache
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.exe
+C:\Users\esman\Desktop\ntp\YuzTespiti\YuzTespiti\obj\Debug\YuzTespiti.pdb
